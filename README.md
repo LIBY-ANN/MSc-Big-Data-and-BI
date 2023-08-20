@@ -1,4 +1,4 @@
-# MSc-Big-Data-and-BI
+# MSc-Big-Data-and-BI Project Work
 COMPARISON OF LOGISTIC REGRESSION, SUPPORT VECTOR MACHINE 
 AND spaCY algorithms for product matching.
 
